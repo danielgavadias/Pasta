@@ -6,7 +6,7 @@ body
 
 form
 {
-    width: 1000px;
+    width: 7000px;
     background-color: #ffffff;
     
     padding: 20px;
@@ -23,7 +23,7 @@ label
 
 input
 {
-    width: 10px;
+    width: 100px;
     padding: 10px;
-    margin-bottom: 100px;
+    margin-bottom: 10px;
 }
