@@ -11,8 +11,8 @@ form
     
     padding: 20px;
     margin: 50px auto;
-    border: 60px solid #5A3E9F ;
-    border-radius: 1000px;
+    border: 10px solid #964B00 ;
+    border-radius: 1px;
 
 }
 
@@ -24,6 +24,6 @@ label
 input
 {
     width: 10px;
-    padding: 1px;
-    margin-bottom: 100px;
+    padding: 10px;
+    margin-bottom: 1px;
 }
