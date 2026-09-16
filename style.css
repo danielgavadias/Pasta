@@ -11,19 +11,19 @@ form
     
     padding: 20px;
     margin: 50px auto;
-    border: 1px solid #5A3E9F ;
-    border-radius: 10px;
+    border: 10px solid #5A3E9F ;
+    border-radius: 100px;
 
 }
 
 label
 {
-    font-weight: bold;
+    font-weight: lighter;
 }
 
 input
 {
     width: 100px;
     padding: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 50px;
 }
